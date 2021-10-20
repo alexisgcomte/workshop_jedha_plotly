@@ -21,3 +21,12 @@ jupyter notebook
 ```bash
 streamlit run streamlit/app.py
 ```
+
+# References
+
+ECG data from https://physionet.org. All files downloadable at:
+https://physionet.org/files/butqdb/1.0.0/
+
+Association Aura:
+https://github.com/Aura-healthcare
+https://www.aura.healthcare/
